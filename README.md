@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **MERN PROJECT**
 
-- 📫 How to reach me **mohdsameer3134@gmai.com**
+- 📫 How to reach me **mohdsameer3134@gmail.com**
 
 - ⚡ Fun fact **I think I am introvert**
 
